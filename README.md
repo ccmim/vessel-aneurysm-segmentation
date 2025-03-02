@@ -5,7 +5,7 @@
 
 
 
-🦒 Colab version (**Recommend**): inference and training mode! **Fast and easy to run**
+🦒 **Colab version (**Recommend**): inference and training mode! **Fast and easy to run****
 
 👨‍💻 GitHub version: inference mode, but need to set up the environment.
 
